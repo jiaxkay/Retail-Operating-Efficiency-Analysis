@@ -41,5 +41,4 @@ This mini project uses Python to fetch financial data via Yahoo Finance (`yfinan
 ### How to Run
 
 1. Clone or download this repository.  
-2. Ensure you have Python 3 installed with the following packages:  
-<img width="925" height="1365" alt="image" src="https://github.com/user-attachments/assets/35495ccd-409d-46a6-89f9-5fd733cc9cb1" />
+2. Ensure you have Python 3 installed with the following packages:pandas, yfinance and matplotlib
